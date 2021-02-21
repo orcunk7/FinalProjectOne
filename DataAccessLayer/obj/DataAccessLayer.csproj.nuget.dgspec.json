@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProjectOne\\DataAccessLayer\\DataAccessLayer.csproj": {}
+    "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProject\\DataAccessLayer\\DataAccessLayer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProjectOne\\DataAccessLayer\\DataAccessLayer.csproj": {
+    "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProject\\DataAccessLayer\\DataAccessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProjectOne\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectUniqueName": "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProject\\DataAccessLayer\\DataAccessLayer.csproj",
         "projectName": "DataAccessLayer",
-        "projectPath": "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProjectOne\\DataAccessLayer\\DataAccessLayer.csproj",
+        "projectPath": "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProject\\DataAccessLayer\\DataAccessLayer.csproj",
         "packagesPath": "C:\\Users\\orcunk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProjectOne\\DataAccessLayer\\obj\\",
+        "outputPath": "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProject\\DataAccessLayer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -31,8 +31,8 @@
           "netstandard2.0": {
             "targetAlias": "netstandard2.0",
             "projectReferences": {
-              "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProjectOne\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProjectOne\\Entities\\Entities.csproj"
+              "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProject\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProject\\Entities\\Entities.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProjectOne\\Entities\\Entities.csproj": {
+    "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProject\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProjectOne\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProject\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProjectOne\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProject\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\orcunk\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProjectOne\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProject\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

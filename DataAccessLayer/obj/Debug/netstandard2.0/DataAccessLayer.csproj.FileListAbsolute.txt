@@ -10,15 +10,3 @@ C:\Users\orcunk\Desktop\KişiselGelişim\FinalProject\DataAccessLayer\obj\Debug\
 C:\Users\orcunk\Desktop\KişiselGelişim\FinalProject\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csproj.CopyComplete
 C:\Users\orcunk\Desktop\KişiselGelişim\FinalProject\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.dll
 C:\Users\orcunk\Desktop\KişiselGelişim\FinalProject\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.pdb
-C:\Users\orcunk\Desktop\KişiselGelişim\FinalProjectOne\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.deps.json
-C:\Users\orcunk\Desktop\KişiselGelişim\FinalProjectOne\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.dll
-C:\Users\orcunk\Desktop\KişiselGelişim\FinalProjectOne\DataAccessLayer\bin\Debug\netstandard2.0\DataAccessLayer.pdb
-C:\Users\orcunk\Desktop\KişiselGelişim\FinalProjectOne\DataAccessLayer\bin\Debug\netstandard2.0\Entities.dll
-C:\Users\orcunk\Desktop\KişiselGelişim\FinalProjectOne\DataAccessLayer\bin\Debug\netstandard2.0\Entities.pdb
-C:\Users\orcunk\Desktop\KişiselGelişim\FinalProjectOne\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csprojAssemblyReference.cache
-C:\Users\orcunk\Desktop\KişiselGelişim\FinalProjectOne\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfoInputs.cache
-C:\Users\orcunk\Desktop\KişiselGelişim\FinalProjectOne\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.AssemblyInfo.cs
-C:\Users\orcunk\Desktop\KişiselGelişim\FinalProjectOne\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csproj.CoreCompileInputs.cache
-C:\Users\orcunk\Desktop\KişiselGelişim\FinalProjectOne\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csproj.CopyComplete
-C:\Users\orcunk\Desktop\KişiselGelişim\FinalProjectOne\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.dll
-C:\Users\orcunk\Desktop\KişiselGelişim\FinalProjectOne\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.pdb

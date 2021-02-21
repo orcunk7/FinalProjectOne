@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProjectOne\\Entities\\Entities.csproj",
+      "projectUniqueName": "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProject\\Entities\\Entities.csproj",
       "projectName": "Entities",
-      "projectPath": "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProjectOne\\Entities\\Entities.csproj",
+      "projectPath": "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProject\\Entities\\Entities.csproj",
       "packagesPath": "C:\\Users\\orcunk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProjectOne\\Entities\\obj\\",
+      "outputPath": "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProject\\Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

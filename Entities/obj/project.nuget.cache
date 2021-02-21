@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3uJMDvHc4bXwmYOKoFS8ZMiGYsrbLr7akbvQy0ulMjD+4cKgc7uDrDA0XPJQYLElymI05cUmOT4THrzcJG/zyA==",
+  "dgSpecHash": "TTSmmAiw7OJHsN13z7veeSYw/vlORdH3JYDcEasUa3gJH3+BkaQSKj2Dm6ldnx7k8JoQ3FwYbhlPMPe66GXokg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProjectOne\\Entities\\Entities.csproj",
+  "projectFilePath": "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProject\\Entities\\Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\orcunk\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\orcunk\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
