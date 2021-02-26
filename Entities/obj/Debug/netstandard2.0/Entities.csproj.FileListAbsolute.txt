@@ -7,3 +7,12 @@ C:\Users\orcunk\Desktop\KişiselGelişim\FinalProject\Entities\obj\Debug\netstan
 C:\Users\orcunk\Desktop\KişiselGelişim\FinalProject\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
 C:\Users\orcunk\Desktop\KişiselGelişim\FinalProject\Entities\obj\Debug\netstandard2.0\Entities.dll
 C:\Users\orcunk\Desktop\KişiselGelişim\FinalProject\Entities\obj\Debug\netstandard2.0\Entities.pdb
+C:\Users\orcunk\Desktop\KişiselGelişim\FinalProjectOne\Entities\bin\Debug\netstandard2.0\Entities.deps.json
+C:\Users\orcunk\Desktop\KişiselGelişim\FinalProjectOne\Entities\bin\Debug\netstandard2.0\Entities.dll
+C:\Users\orcunk\Desktop\KişiselGelişim\FinalProjectOne\Entities\bin\Debug\netstandard2.0\Entities.pdb
+C:\Users\orcunk\Desktop\KişiselGelişim\FinalProjectOne\Entities\obj\Debug\netstandard2.0\Entities.csprojAssemblyReference.cache
+C:\Users\orcunk\Desktop\KişiselGelişim\FinalProjectOne\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfoInputs.cache
+C:\Users\orcunk\Desktop\KişiselGelişim\FinalProjectOne\Entities\obj\Debug\netstandard2.0\Entities.AssemblyInfo.cs
+C:\Users\orcunk\Desktop\KişiselGelişim\FinalProjectOne\Entities\obj\Debug\netstandard2.0\Entities.csproj.CoreCompileInputs.cache
+C:\Users\orcunk\Desktop\KişiselGelişim\FinalProjectOne\Entities\obj\Debug\netstandard2.0\Entities.dll
+C:\Users\orcunk\Desktop\KişiselGelişim\FinalProjectOne\Entities\obj\Debug\netstandard2.0\Entities.pdb
