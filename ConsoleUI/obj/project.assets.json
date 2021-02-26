@@ -5663,11 +5663,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectUniqueName": "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProjectOne\\ConsoleUI\\ConsoleUI.csproj",
       "projectName": "ConsoleUI",
-      "projectPath": "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProject\\ConsoleUI\\ConsoleUI.csproj",
+      "projectPath": "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProjectOne\\ConsoleUI\\ConsoleUI.csproj",
       "packagesPath": "C:\\Users\\orcunk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProject\\ConsoleUI\\obj\\",
+      "outputPath": "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProjectOne\\ConsoleUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -5687,14 +5687,14 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProject\\Business\\Business.csproj": {
-              "projectPath": "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProject\\Business\\Business.csproj"
+            "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProjectOne\\Business\\Business.csproj": {
+              "projectPath": "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProjectOne\\Business\\Business.csproj"
             },
-            "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProject\\DataAccessLayer\\DataAccessLayer.csproj": {
-              "projectPath": "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProject\\DataAccessLayer\\DataAccessLayer.csproj"
+            "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProjectOne\\DataAccessLayer\\DataAccessLayer.csproj": {
+              "projectPath": "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProjectOne\\DataAccessLayer\\DataAccessLayer.csproj"
             },
-            "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProject\\Entities\\Entities.csproj": {
-              "projectPath": "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProject\\Entities\\Entities.csproj"
+            "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProjectOne\\Entities\\Entities.csproj": {
+              "projectPath": "C:\\Users\\orcunk\\Desktop\\KişiselGelişim\\FinalProjectOne\\Entities\\Entities.csproj"
             }
           }
         }

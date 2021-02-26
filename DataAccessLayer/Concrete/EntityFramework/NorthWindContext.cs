@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Entities.Concrete;
+using Microsoft.EntityFrameworkCore;
 
 namespace DataAccessLayer.Concrete.EntityFramework
 {
@@ -6,9 +7,11 @@ namespace DataAccessLayer.Concrete.EntityFramework
     {
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer(@"\Server = 175.45.2.12");/* 1.30  */
-
-            //https://www.youtube.com/watch?v=ow-EHetuNAU&feature=emb_logo&ab_channel=EnginDemiro%C4%9F
+            optionsBuilder.UseSqlServer(@"Server=(localdb)\MSSQLLocalDB;Database=Northwind; Trusted_Connection=true");
         }
+        public DbSet<Product> Products { get; set; }
+        public DbSet<Category> Categories { get; set; }
+        public DbSet<Customer> Customers { get; set; }
+
     }
 }

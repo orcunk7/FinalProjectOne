@@ -17,5 +17,15 @@ namespace Business.Abstract
         {
             return _iProductDal.GetAll();
         }
+
+        public List<Product> GetProductByCategoryId(int id)
+        {
+            return _iProductDal.GetAll(x => x.CategoryId == id);
+        }
+
+        public List<Product> GetProductByUnitPrice(decimal min, decimal max)
+        {
+            return _iProductDal.GetAll(x => x.UnitPrice <= max && x.UnitPrice >= min);
+        }
     }
 }
