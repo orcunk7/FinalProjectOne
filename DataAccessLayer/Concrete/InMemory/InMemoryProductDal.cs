@@ -1,5 +1,6 @@
 ﻿using DataAccessLayer.Abstract;
 using Entities.Concrete;
+using Entities.DTOs;
 using System;
 using System.Collections.Generic;
 using System.Linq.Expressions;
@@ -36,6 +37,11 @@ namespace DataAccessLayer.Concrete.InMemory
         public List<Product> GetAllByCategory(int categoryId)
         {
             throw new System.NotImplementedException();
+        }
+
+        public List<ProductDetailDto> GetProductDetails()
+        {
+            throw new NotImplementedException();
         }
 
         public void Update(Product product)

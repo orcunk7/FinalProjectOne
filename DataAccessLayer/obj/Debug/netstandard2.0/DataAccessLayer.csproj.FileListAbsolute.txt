@@ -22,3 +22,5 @@ C:\Users\orcunk\Desktop\KişiselGelişim\FinalProjectOne\DataAccessLayer\obj\Deb
 C:\Users\orcunk\Desktop\KişiselGelişim\FinalProjectOne\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.csproj.CopyComplete
 C:\Users\orcunk\Desktop\KişiselGelişim\FinalProjectOne\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.dll
 C:\Users\orcunk\Desktop\KişiselGelişim\FinalProjectOne\DataAccessLayer\obj\Debug\netstandard2.0\DataAccessLayer.pdb
+C:\Users\orcunk\Desktop\KişiselGelişim\FinalProjectOne\DataAccessLayer\bin\Debug\netstandard2.0\Core.dll
+C:\Users\orcunk\Desktop\KişiselGelişim\FinalProjectOne\DataAccessLayer\bin\Debug\netstandard2.0\Core.pdb
