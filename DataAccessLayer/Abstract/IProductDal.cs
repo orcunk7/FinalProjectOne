@@ -1,4 +1,5 @@
-﻿using Entities.Concrete;
+﻿using Core.DataAccess;
+using Entities.Concrete;
 
 namespace DataAccessLayer.Abstract
 {
@@ -6,4 +7,6 @@ namespace DataAccessLayer.Abstract
     {
 
     }
+    //code refactoring - klodun iyileştirmesi
+
 }
