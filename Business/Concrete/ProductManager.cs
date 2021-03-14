@@ -1,4 +1,5 @@
 ﻿
+using Business.Abstract;
 using Business.Constants;
 using Core.Utilities.Results;
 using DataAccessLayer.Abstract;
@@ -7,7 +8,7 @@ using Entities.DTOs;
 using System;
 using System.Collections.Generic;
 
-namespace Business.Abstract
+namespace Business.Concrete
 {
     public class ProductManager : IProductService
     {
