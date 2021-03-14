@@ -1,5 +1,8 @@
 ﻿
+using Business.Abstract;
 using Business.Constants;
+using Business.ValidationRules.FluentValidation;
+using Core.Aspects.Autofac.Validation;
 using Core.Utilities.Results;
 using DataAccessLayer.Abstract;
 using Entities.Concrete;
@@ -7,7 +10,7 @@ using Entities.DTOs;
 using System;
 using System.Collections.Generic;
 
-namespace Business.Abstract
+namespace Business.Concrete
 {
     public class ProductManager : IProductService
     {
@@ -18,14 +21,11 @@ namespace Business.Abstract
             _iProductDal = iProductDal;
         }
 
+        [ValidationAspect(typeof(ProductValidator))]
         public IResult Add(Product product)
         {
-            if (product.ProductName.Length < 2)
-            {
-                return new ErrorResult(Messages.ProductNameInvalid);
-            }
+            //ValidationTool.Validate(new ProductValidator(), product);
             _iProductDal.Add(product);
-
             return new SuccessResult(Messages.ProductAdded);
         }
 

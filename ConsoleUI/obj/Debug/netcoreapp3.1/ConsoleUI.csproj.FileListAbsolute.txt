@@ -120,3 +120,6 @@ C:\Users\orcunk\Desktop\KişiselGelişim\FinalProjectOne\ConsoleUI\obj\Debug\net
 C:\Users\orcunk\Desktop\KişiselGelişim\FinalProjectOne\ConsoleUI\obj\Debug\netcoreapp3.1\ConsoleUI.genruntimeconfig.cache
 C:\Users\orcunk\Desktop\KişiselGelişim\FinalProjectOne\ConsoleUI\bin\Debug\netcoreapp3.1\Core.dll
 C:\Users\orcunk\Desktop\KişiselGelişim\FinalProjectOne\ConsoleUI\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\orcunk\Desktop\KişiselGelişim\FinalProjectOne\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.dll
+C:\Users\orcunk\Desktop\KişiselGelişim\FinalProjectOne\ConsoleUI\bin\Debug\netcoreapp3.1\Autofac.Extras.DynamicProxy.dll
+C:\Users\orcunk\Desktop\KişiselGelişim\FinalProjectOne\ConsoleUI\bin\Debug\netcoreapp3.1\Castle.Core.dll
